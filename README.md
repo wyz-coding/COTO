@@ -1,2 +1,4 @@
 ### COTO
-This paper is under review and we will open source the detailed parameters of our catadioptric camera design and the dataset upon acceptance of the article.
+## Central catadioptric omnidirectional thermal (CCOT) camera
+./optical_design1.PNG
+./optical_design2.PNG
